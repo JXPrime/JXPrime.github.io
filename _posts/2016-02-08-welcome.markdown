@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Hello, World!"
+date:   2016-02-08 13:38:00 -0700
+categories: jekyll blog
+---
+
+I've made a blog! It's here!
+
+I had initially started this intending to use [Docker] to run the Jekyll tool locally, as that is what GitHub Pages uses. Docker was giving me headaches, so I switched to [Vagrant], as I've used that in the past.
+ 
+Resources used:
+
+First pass, I didn't have make installed:
+
+http://superuser.com/questions/192683/sh-make-not-found 
+
+Then, I need to get ruby installed, turns out there's a thing called RVM: http://stackoverflow.com/questions/16222738/how-do-i-install-ruby-2-0-0-correctly-on-ubuntu-12-04
+
+Then back to Jekyll:
+
+http://jekyllrb.com/docs/troubleshooting/
+
+
+So now, I've got a local Vagrant VM running Ubuntu, with Ruby and Jekyll installed:
+
+![Vagrant screenshot](/images/vagrantscreenshot.png)
+
+Not a bad bit of learning for 6 hours or so.
+
+Next steps will be to import the content from my old blog, and to figure out how to enable commenting on this one.
+
+And to learn more Markdown. Lots of catching up to do.
+
+[Vagrant]: https://www.vagrantup.com/
+[Docker]: https://www.docker.com/
