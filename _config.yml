@@ -18,3 +18,5 @@ timezone: America/Phoenix
 
 # Build settings
 markdown: kramdown
+
+exclude: ['Vagrantfile', 'README.md']
