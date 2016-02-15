@@ -13,13 +13,11 @@ Resources used:
 
 First pass, I didn't have make installed:
 
-http://superuser.com/questions/192683/sh-make-not-found 
+[http://superuser.com/questions/192683/sh-make-not-found](http://superuser.com/questions/192683/sh-make-not-found){:target="_blank"}
 
-Then, I need to get ruby installed, turns out there's a thing called RVM: http://stackoverflow.com/questions/16222738/how-do-i-install-ruby-2-0-0-correctly-on-ubuntu-12-04
+Then, I need to get ruby installed, turns out there's a thing called RVM: [http://stackoverflow.com/a/24803204/5480](http://stackoverflow.com/a/24803204/5480){:target="_blank"}
 
-Then back to Jekyll:
-
-http://jekyllrb.com/docs/troubleshooting/
+Then back to [Jekyll](http://jekyllrb.com/docs/troubleshooting/){:target="_blank"}.
 
 
 So now, I've got a local Vagrant VM running Ubuntu, with Ruby and Jekyll installed:
@@ -34,3 +32,5 @@ And to learn more Markdown. Lots of catching up to do.
 
 [Vagrant]: https://www.vagrantup.com/
 [Docker]: https://www.docker.com/
+
+Edited on 2/14 to update the links to be clickable.
