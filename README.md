@@ -4,6 +4,8 @@ See my blog [here](http://jxprime.github.io).
 
 My [Stack Overflow Profile](http://stackoverflow.com/users/5480/jonas).
 
+I'm on [Twitter](https://twitter.com/jxprime) too!
+
 ## Tools I've been using
 
 * [Visual Studio Code](https://code.visualstudio.com/)
